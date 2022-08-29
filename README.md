@@ -1,5 +1,12 @@
 # Running-For-Friend
-[대학입시 자료.zip](https://github.com/Tonarion7/Running-For-Friend/files/9439376/default.zip)
-git lfs track "Running for Friend.zip"
-git add .gitattributes
-git push origin main
+![image](https://user-images.githubusercontent.com/91765744/187108654-d3171a84-2634-4b35-8505-b6a53322ec51.png)
+![image](https://user-images.githubusercontent.com/91765744/187108661-a4c0d72c-f479-45d0-855d-0654bda5b48b.png)
+![image](https://user-images.githubusercontent.com/91765744/187108674-881afb4d-509a-4d0c-b568-28aa1cdc9f2d.png)
+![image](https://user-images.githubusercontent.com/91765744/187108686-d9f9d949-581e-4f4c-bb0b-41cbfa002725.png)
+![image](https://user-images.githubusercontent.com/91765744/187108704-e9774e4a-4f21-471f-9caa-671b44a49efd.png)
+![image](https://user-images.githubusercontent.com/91765744/187108709-d39191cb-06be-4a4c-b008-1d57b1297094.png)
+![image](https://user-images.githubusercontent.com/91765744/187108713-58d4f51e-ea91-4eb1-b28e-01bd9bb11281.png)
+![image](https://user-images.githubusercontent.com/91765744/187108718-6bfe2e48-f38b-4a34-b6b9-13e6ef52ecc4.png)
+![image](https://user-images.githubusercontent.com/91765744/187108728-4572e04f-29a1-44c8-81c1-4cd351a36e9c.png)
+![image](https://user-images.githubusercontent.com/91765744/187108731-72b1b06b-f6b9-4c7f-ad5a-54dbd8913415.png)
+![image](https://user-images.githubusercontent.com/91765744/187108735-6850a7e2-7b4c-49f7-96ca-efeed84681a8.png)
